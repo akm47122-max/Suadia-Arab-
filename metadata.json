@@ -1,0 +1,6 @@
+{
+  "name": "Saudi Jobs & Recruitment Portal Pakistan",
+  "description": "Recruitment portal for Pakistani applicants seeking verified employment opportunities in Saudi Arabia, featuring collision-resistant tracking IDs, candidate dashboard, payment & ballot verification, protected admin portal, and full Hostinger PHP/MySQL deployment package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
